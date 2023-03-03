@@ -339,6 +339,12 @@ nav ul li a:hover {
         padding-top: 100px !important;
     }
 }
+@media (min-width:1400px) {
+    .slick-dots li button:before {
+        top: 60px;
+        left: -560px;
+    }
+}
 
 @media (max-width:1200px) {
     nav ul {
