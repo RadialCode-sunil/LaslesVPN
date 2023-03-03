@@ -332,7 +332,7 @@ nav ul li a:hover {
 @media (min-width:1200px) {
     .slick-dots li button:before {
         top: 60px;
-        left: -560px;
+        left: -470px;
     }
 
     .pt_100_lg_min {
