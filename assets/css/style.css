@@ -280,7 +280,7 @@ nav ul li a:hover {
 }
 
 @media (min-width:576px) {
-    .pt_60_lsm_min {
+    .pt_60_sm_min {
         padding-top: 60px !important;
     }
 }
