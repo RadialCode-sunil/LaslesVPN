@@ -390,7 +390,7 @@ nav ul li a:hover {
 }
 
 @media (max-width:992px) {
-    .section {
+    .Subscribe_section {
         transform: translate(0%, 36%);
     }
 }
@@ -438,7 +438,7 @@ nav ul li a:hover {
         padding: 10px 50px;
     }
 
-    .section {
+    .Subscribe_section {
         transform: translate(0%, 20%);
     }
 
