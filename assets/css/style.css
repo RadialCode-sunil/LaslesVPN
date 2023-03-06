@@ -253,7 +253,7 @@ nav ul li a:hover {
     opacity: 0.7;
 }
 
-.slick-dots li button:before {
+.slick-dots li button::before {
     font-size: 20px;
     line-height: 20px;
     top: 20px;
@@ -286,43 +286,43 @@ nav ul li a:hover {
 }
 
 @media (min-width:992px) {
-    .Provide_h2_width {
+    .Provide_h2_w_lg {
         width: 383.41px;
     }
 
-    .Provide_p_width {
+    .Provide_p_w_lg {
         width: 427.88px;
     }
 
-    .Huge_h2_width {
+    .Huge_h2_w_lg {
         width: 383.41px;
     }
 
-    .Huge_p_width {
+    .Huge_p_w_lg {
         width: 555px;
     }
 
-    .Trusted_h2_width {
+    .Trusted_h2_w_lg {
         width: 447.81px;
     }
 
-    .Trusted_p_width {
+    .Trusted_p_w_lg {
         width: 555px;
     }
 
-    .Choose_p_width {
+    .Choose_p_w_lg {
         width: 555px;
     }
 
-    .Subscribe_h2_width {
+    .Subscribe_h2_w_lg {
         width: 371.61px;
     }
 
-    .footer_p_width {
+    .footer_p_w_lg {
         width: 340px;
     }
 
-    .width_20_p12 {
+    .width_20_p12_lg {
         width: 20%;
         padding-left: 12px;
         padding-right: 12px;
@@ -330,7 +330,7 @@ nav ul li a:hover {
 }
 
 @media (min-width:1200px) {
-    .slick-dots li button:before {
+    .slick-dots li button::before {
         top: 60px;
         left: -470px;
     }
@@ -339,6 +339,7 @@ nav ul li a:hover {
         padding-top: 100px !important;
     }
 }
+
 @media (min-width:1400px) {
     .slick-dots li button:before {
         top: 60px;
